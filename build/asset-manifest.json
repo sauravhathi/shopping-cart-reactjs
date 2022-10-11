@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-reactjs/static/css/main.4bdec295.css",
+    "main.js": "/shopping-cart-reactjs/static/js/main.f5adead8.js",
+    "static/media/t-shirt-2.png": "/shopping-cart-reactjs/static/media/t-shirt-2.77d4cdf8dfaca051fdbd.png",
+    "static/media/t-shirt-3.png": "/shopping-cart-reactjs/static/media/t-shirt-3.e19f6c43beba037dbdf3.png",
+    "index.html": "/shopping-cart-reactjs/index.html",
+    "main.4bdec295.css.map": "/shopping-cart-reactjs/static/css/main.4bdec295.css.map",
+    "main.f5adead8.js.map": "/shopping-cart-reactjs/static/js/main.f5adead8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bdec295.css",
+    "static/js/main.f5adead8.js"
+  ]
+}
